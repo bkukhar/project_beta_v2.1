@@ -144,7 +144,7 @@ body {
     background-image: url('../images/background.jpg');
     min-height: 80vh;
     background-size: cover;
-    background-position: center;
+    /*background-position: center;*/
     background-attachment: fixed;
 }
 
